@@ -52894,7 +52894,7 @@ $2(a,b){return this.a7d(a,b)},
 a7d(a,b){var s=0,r=A.Q(t.H),q,p
 var $async$$2=A.R(function(c,d){if(c===1)return A.N(d,r)
 while(true)switch(s){case 0:p=t.N
-a.sa2W(0,A.W(["Content-Type","application/json","accept","application/json","Accept-Language","ar","Access-Control-Allow-Origin","*"],p,p))
+a.sa2W(0,A.W(["Content-Type","application/json","accept","application/json","Accept-Language","ar","Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","Origin, X-Requested-With, Content-Type, Accept"],p,p))
 q=b.fG(0,a)
 s=1
 break
