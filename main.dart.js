@@ -53405,7 +53405,7 @@ n=20*(o.a.a/n.a)
 p=20*p.gaN()
 if(j.e){o=j.c.d
 o=h+(o==null?g:o)}else{o=j.d.d
-o=h+(o==null?g:o)}r.push(A.d7(A.b([new A.aL(new A.a8(0,p,0,p),new A.aL(new A.a8(n,0,n,0),q,i),i),new A.lA(o,u.c,i)],c),B.J,B.E,B.x))}if(j.xT(4)){q=A.cP(B.bC,A.bn(i,i,i,i,i,i,i,i,i,i,i,$.W().cV(16),i,i,B.K,i,i,!0,i,i,i,i,i,i,i,i),"\u0627\u0644\u0644\u0648\u062c\u0648 (\u0627\u062e\u062a\u064a\u0627\u0631\u064a)")
+o=h+(o==null?g:o)}r.push(A.d7(A.b([new A.aL(new A.a8(0,p,0,p),new A.aL(new A.a8(n,0,n,0),q,i),i),new A.lA(o,u.c,i)],c),B.J,B.E,B.x))}if(j.xT(5)){q=A.cP(B.bC,A.bn(i,i,i,i,i,i,i,i,i,i,i,$.W().cV(16),i,i,B.K,i,i,!0,i,i,i,i,i,i,i,i),"\u0627\u0644\u0644\u0648\u062c\u0648 (\u0627\u062e\u062a\u064a\u0627\u0631\u064a)")
 p=$.W()
 o=p.d
 o===$&&A.a()
@@ -53470,7 +53470,7 @@ n===$&&A.a()
 n=20*(o.a.a/n.a)
 p=20*p.gaN()
 q=new A.aL(new A.a8(0,p,0,p),new A.aL(new A.a8(n,0,n,0),new A.A0(r,B.kt,q,m.d,1,B.Kn,l),l),l)
-r=q}return A.b1(r,300*k,250*(j.a.a/s.a))}}
+r=q}return A.b1(r,250*k,250*(j.a.a/s.a))}}
 A.alr.prototype={
 $0(){var s=window
 s.toString
