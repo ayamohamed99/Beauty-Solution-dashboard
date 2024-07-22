@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "c02760c3483026624c42aceaeba71d53",
-"assets/AssetManifest.bin.json": "70bc4b4dffa218c82042cd36f6e4e6c5",
-"assets/AssetManifest.json": "093078097c45a1078c93d041b55f23fa",
+const RESOURCES = {"assets/AssetManifest.bin": "f82eab3304a042a3d235cfcd5ce59ad7",
+"assets/AssetManifest.bin.json": "65089e8b991824edc7f858ef7c51cd5d",
+"assets/AssetManifest.json": "01d10c5b1ec4de51d249a6eba42d3ffc",
 "assets/assets/fonts/Tajawal-Bold.ttf": "76f83be859d749342ba420e1bb010d6a",
 "assets/assets/fonts/Tajawal-ExtraBold.ttf": "066a37467c3af47d359507f7c7976071",
 "assets/assets/fonts/Tajawal-ExtraLight.ttf": "cce1763b8395a41d57dfdf63a2e97e62",
@@ -13,11 +13,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "c02760c3483026624c42aceaeba71d53
 "assets/assets/fonts/Tajawal-Medium.ttf": "3358032dd0994cf4a2116f0b16f80d70",
 "assets/assets/fonts/Tajawal-Regular.ttf": "e3fe295c55a0cb720f766bccc5eecf63",
 "assets/assets/gifs/waring.gif": "018104076ade0f9e84dc437d59a5e228",
-"assets/assets/images/Beauty-Station-LOGO.png": "580b9b2e7c3ebaf2affe11df2b619206",
+"assets/assets/icons/Beauty%2520Solution%2520LOGO%25201.svg": "d472f6f67f9acf0223f9cea128223a20",
+"assets/assets/images/Beauty-Station-LOGO%25201.png": "4a3d6581314ef946a74ed40733fbe1ca",
+"assets/assets/images/Beauty-Station-LOGO.png": "1cca18678310f200f5a8ec80508126ce",
 "assets/assets/jsons/lang/ar.json": "59ff55af30eaa5cb7a846c5c7e655247",
 "assets/assets/jsons/lang/en.json": "b7183a602fdaeb3af9e454abfa343daa",
 "assets/FontManifest.json": "acf10beef469aebe9cbc21a8e32721f0",
-"assets/fonts/MaterialIcons-Regular.otf": "1bf9cb2b93f0a4f4b98fd7d0ff4bab63",
+"assets/fonts/MaterialIcons-Regular.otf": "d53d8c11bf1aec9b9ab7cab80e1ae04d",
 "assets/NOTICES": "9ef7a4d3e055b6c2ba93b4044768beaa",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
@@ -33,16 +35,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "c02760c3483026624c42aceaeba71d53
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "7ce5fcd34460c34202d9a55355e3ba68",
+"flutter_bootstrap.js": "dafd9b22c6534528fff4d9b6056c967d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d780a9374577b3631859be4757d88305",
-"/": "d780a9374577b3631859be4757d88305",
-"main.dart.js": "650b21873074ae24cd711657e6062b9f",
-"manifest.json": "2e6301ae9ba28fc0d4528ab0abd828ce",
-"version.json": "d5cd40fe24f8bbb475e23e6b9befe5c9"};
+"index.html": "1238217c9d4700f0c86f477e1d390efc",
+"/": "1238217c9d4700f0c86f477e1d390efc",
+"main.dart.js": "79ee88a061d6964c4f08a07163cc9a03",
+"manifest.json": "dd44ea7523c34316c53d65f7a834875b",
+"version.json": "0d3983109f9d3a451ced967998d80d3f"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
